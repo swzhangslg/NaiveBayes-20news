@@ -13,9 +13,9 @@
 
 ## 过程
 
-见pdf文件：
+见pdf文件：[过程.pdf](https://github.com/swzhangslg/NaiveBayes-20news/blob/main/%E8%BF%87%E7%A8%8B.pdf)
 
-
+注：code_dev.ipynb展示调试过程
 
 ---
 
